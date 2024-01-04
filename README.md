@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, Me llamo Juan Pablo Bermúdez</h1>
 <h3 align="center">Soy un Frontend apasionado</h3>
 
-- 💬 Ask me about **html, css, javascript**
-
 - 📫 How to reach me **jberpu82@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
