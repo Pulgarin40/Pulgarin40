@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Juan Pablo Bermúdez</h1>
-<h3 align="center">Soy un Desarrollador web que busca la excelencia en todo lo que hago. </br> Curioso y con ganas de aprender, siempre estoy abierto a explorar cualquier rama del desarrollo, tanto en el Front como en el Back.</h3>
+<h3 align="center">Soy un Desarrollador Java que busca la excelencia en todo lo que hago. </br> Curioso y con ganas de aprender, siempre estoy abierto a explorar cualquier rama del desarrollo, tanto en el Front como en el Back.</h3>
 
 - 📫 How to reach me **jberpu82@gmail.com**
 
